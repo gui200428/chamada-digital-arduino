@@ -1,0 +1,33 @@
+{
+    "aulas": [
+      {
+        "nome_aula": "Ciências Juridicas p/ Eng",
+        "dia_semana": "Quarta",
+        "horario_inicio": "19:00",
+        "horario_fim": "20:20",
+        "nome_professor": "Adelson Maia"
+      },
+      {
+        "nome_aula": "Projeto integrado",
+        "dia_semana": "Quarta",
+        "horario_inicio": "20:40",
+        "horario_fim": "22:00",
+        "nome_professor": "Felipe Diniz Dallilo"
+      },
+      {
+        "nome_aula": "Economia",
+        "dia_semana": "Quinta",
+        "horario_inicio": "19:00",
+        "horario_fim": "20:20",
+        "nome_professor": "Ademil"
+      },
+      {
+        "nome_aula": "Ciências do Ambiente",
+        "dia_semana": "Quinta",
+        "horario_inicio": "20:40",
+        "horario_fim": "22:00",
+        "nome_professor": "Luci Sartori"
+      }
+    ]
+  }
+  

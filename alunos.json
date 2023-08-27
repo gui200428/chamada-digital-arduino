@@ -1,0 +1,41 @@
+{
+    "alunos": [
+      {
+        "id": 1,
+        "nome_completo": "Vitor Ronald Barbist",
+        "curso": "Engenharia da Computação",
+        "RA": "99999-099"
+      },
+      {
+        "id": 2,
+        "nome_completo": "Maria Souza",
+        "curso": "Ciências da Informação",
+        "RA": "987654321"
+      },
+      {
+        "id": 3,
+        "nome_completo": "Carlos Oliveira",
+        "curso": "Design Gráfico",
+        "RA": "654321987"
+      },
+      {
+        "id": 4,
+        "nome_completo": "Guilherme Augusto",
+        "curso": "Engenharia da Computação",
+        "RA": "88888-088"
+      },
+      {
+        "id": 5,
+        "nome_completo": "Pedro Almeida",
+        "curso": "Administração",
+        "RA": "789123456"
+      },
+      {
+        "id": 6,
+        "nome_completo": "Juliana Costa",
+        "curso": "Psicologia",
+        "RA": "321987654"
+      }
+    ]
+  }
+  
